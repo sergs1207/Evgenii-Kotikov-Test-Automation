@@ -1,0 +1,5 @@
+Attributes: weight, color, shape, expiration, quantity, edibility (means can we eat it or need to wait), size, nonfood, toxic, price per item, weight price, storage temperature, taste, liquidity, wrapping, needs to cook, look (how it looks), availability
+
+Methods external: check expiration, check weight, check wrapping, check taste, cook, buy, put into a basket, check price, check availability
+
+Methods internal: to ripen

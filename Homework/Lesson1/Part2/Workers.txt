@@ -1,0 +1,5 @@
+Attributes: age, position, knowledge basis (education), salary, bad habits, working hours/days, kids, marriage, productivity, availability (is such position occupied)
+
+Methods external: set salary, check age, check knowledge, set position, set working hours/days, give gifts, give bonus, give salary, check productivity, to hire, to fire, give a penalty,
+
+Methods internal: improve knowledge, work, set vacation, to retire,

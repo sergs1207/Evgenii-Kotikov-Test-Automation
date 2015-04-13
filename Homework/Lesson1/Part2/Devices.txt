@@ -1,0 +1,5 @@
+Attributes: browser, manufacturer, weight, height, width, depth, system, system version, display type, battery capacity, screen resolution, phone option, charge level, operability (is it work at all, not broken), /*state (turned off, locked, unlocked)*/, purchase date, warranty (how many upon purchase), charge interface, camera, frontal camera, free space, media files available, sound level, color 
+
+Methods external: phone, to charge, check manufacturer, check charge, check system version, change state, unlock, play media file, check operability, move device
+
+Methods internal: check software updates, accept call, new media file

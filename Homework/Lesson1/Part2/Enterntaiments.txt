@@ -1,0 +1,5 @@
+Attributes: type of event, environment, attendees, ticket price/bet, bottom age limit, top age limit, equipment, danger level, winning, rounds amount, adrenaline,    
+
+Methods external: set ticket price, set bottom age limit, check danger level, invite attendees, set rounds amount, set environment, check equipment, set winning,  
+
+Methods internal: start entertainment, set equipment

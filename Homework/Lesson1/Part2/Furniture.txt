@@ -1,0 +1,5 @@
+Attributes: type (exterior, interior), fabric (the material), manufacturer, weight, size, movability (how hard to move it), purpose, color, legs, cells
+
+Methods external: put smth on it, move left, move right, move forward, move backward, lift, turn, cleanness, fix, open a cell, construct(put all the details together)
+
+Methods internal: put smth inside

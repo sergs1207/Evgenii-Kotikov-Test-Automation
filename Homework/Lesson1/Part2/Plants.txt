@@ -1,0 +1,5 @@
+Attributes: color, fruit, fruit location (abowe or below the ground), fruits amount, type of plant, height, fertilizer, trunk thickness, branches, flowers, time of planting, replanting (like potatoes or apple tree), fruit readiness, life cycle, leaves, seeds, gathering equipment
+
+Methods external: set fertilizer (water or some mineral stuff), get harvest, plant, check fruit readiness, check life cycle, get leaves, get seeds,
+
+Methods internal: grow up, make new branch, make a fruit, make seeds, set fruits amount
