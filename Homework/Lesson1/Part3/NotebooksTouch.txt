@@ -1,0 +1,3 @@
+Attributes: Web camera, bend angle, video card manufacturer, video card manufacturer
+
+Methods:  set angle, turn on web camera, install web camera driver

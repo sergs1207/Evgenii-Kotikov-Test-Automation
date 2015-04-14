@@ -1,0 +1,3 @@
+Attributes: angle respectively to the ground, is mono block or not, is USB there
+
+Methods: set angle, get body (to now is it mono block or not)
