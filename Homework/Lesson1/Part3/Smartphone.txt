@@ -1,3 +1,0 @@
-Attributes: cell operator, amount of SIM cards, type of SIM card,
-
-Methods: make call, accept call, change cell operator, 
