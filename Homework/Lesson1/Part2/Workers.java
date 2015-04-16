@@ -6,6 +6,7 @@ public class Workers {
 	private int salary; 
 	private int workFrom; //Hours
 	private int workTo; //Hours
+	private int hiredDate;//Where worker was hired
 	private float productivity; //Percents  
 	private String equipment; // Computer, programming, documents etc.
 	private int kids; //
@@ -21,7 +22,7 @@ public int setSalary(int newSalary) {salary=newSalary;} //
 public getPositionLevel() {return positionLevel;} //
 public int setPositionLevel(int newPositionLevel) {positionLevel=newPositionLevel;} //
 public boolean getBadHabits() {return badHabits;}
-private goHome();
-private goWork;
+private goHome();//
+private goWork();//
 public Penalty();//in case productivity is very low
 }
