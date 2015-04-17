@@ -2,4 +2,4 @@ Attributes: weight, sound level, manufacturer, size, type of instruments, color,
 
 Methods external: move, set sound level, check weight, buy
 
-Methods internal: play
+Methods internal: play  
