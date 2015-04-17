@@ -1,0 +1,3 @@
+Attributes: how many contracts CEO signed, how much money CEO did for the company, business trip country
+
+Methods: set company strategy, set contract negotiations, set negotiations strategy

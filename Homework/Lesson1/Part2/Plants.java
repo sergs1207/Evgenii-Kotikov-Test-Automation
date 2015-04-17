@@ -1,4 +1,4 @@
-public class Plants { 
+public class Plant { 
 	private String trunkColor;//
 	private String fertilizer; //What does plant 'eat'
 	private int height;
@@ -23,7 +23,7 @@ public void setWidth(int newValue){width=newValue}
 public void setTrunkThickness (int newValue){trunkThickness=newValue}
 //<!--end constructor-->
 
-//below 
+
 public rootType() ; //put smth on it
 private leavesType() ; //put smth into it
 public setFertilezer (String newFertilizer) {fertilizer=newFertilizer} // Like 'food' for a plant
