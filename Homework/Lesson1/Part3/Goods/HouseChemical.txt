@@ -1,0 +1,3 @@
+Attributes: applicable for some stuff like kitchen, bath etc.; active agent; toxicity level - what action we need to do in case eat or touch etc. 
+
+Methods: check applicability, check toxicity level

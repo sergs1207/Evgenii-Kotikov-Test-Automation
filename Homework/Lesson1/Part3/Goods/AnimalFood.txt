@@ -1,0 +1,3 @@
+Attributes: kind of animal, type of food
+
+Methods: check kind of animal, check type of food, 
