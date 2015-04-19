@@ -1,4 +1,4 @@
-public class Ceo extends Worker {
+public class Ceo extends Workers {
         
     // the Ceo subclass has
     // next additional fields

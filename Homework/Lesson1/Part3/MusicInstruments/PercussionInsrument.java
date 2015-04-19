@@ -1,4 +1,4 @@
-public class PercussionInstrument extends MusicInstrument {
+public class PercussionInstrument extends MusicInstruments {
         
     // the PercussionInstrument subclass has
     // next additional fields

@@ -1,4 +1,4 @@
-public class Trees extends Trees {
+public class Trees extends Plants {
         
     // the Trees subclass has
     // next additional fields

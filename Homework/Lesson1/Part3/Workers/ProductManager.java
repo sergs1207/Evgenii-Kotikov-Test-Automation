@@ -1,4 +1,4 @@
-public class ProductManager extends Worker {
+public class ProductManager extends Workers {
         
     // the ProductManager subclass has
     // next additional fields

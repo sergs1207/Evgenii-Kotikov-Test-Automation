@@ -1,4 +1,4 @@
-public class Developer extends Worker {
+public class Developer extends Workers {
         
     // the Developer subclass has
     // next additional fields

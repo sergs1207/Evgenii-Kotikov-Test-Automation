@@ -1,4 +1,4 @@
-public class Cleaner extends Worker {
+public class Cleaner extends Workers {
         
     // the Cleaner subclass has
     // next additional fields
