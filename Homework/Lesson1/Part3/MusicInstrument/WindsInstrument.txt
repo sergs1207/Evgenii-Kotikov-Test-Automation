@@ -1,3 +1,0 @@
-Attributes: tube length, valve type, amount of valves
-
-Methods: set valve type, set amount of valves

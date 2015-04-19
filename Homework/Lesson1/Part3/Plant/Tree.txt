@@ -1,3 +1,0 @@
-Attributes: growth, age, bark color, bark thickness
-
-Methods: create leaves, leaf fall

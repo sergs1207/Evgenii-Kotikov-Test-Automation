@@ -1,3 +1,0 @@
-Attributes: mushroom head colour, poisonous or not, the degree of poisonous
-
-Methods: set head color, set poisonous degree
