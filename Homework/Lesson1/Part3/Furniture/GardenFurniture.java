@@ -1,16 +1,14 @@
-public class Food extends Goods {
+public class GardenFurniture extends Furniture {
         
-    // the Food subclass has
+    // the GardenFurniture subclass has
     // next additional fields
-    public int fats; //Year growth for a tree
-	public int proteins; //
-	public int carbs; //
-	public String taste; //
-	public String eatWay; // DP we need to cook this kind of food
+	public int installationDepth ; // Installation depth 
+	public String weatherOperation; // What weather is compatible
+	public String specialCovering; // Special substance to cover
 
-    // the Food subclass has
+    // the GardenFurniture subclass has
     // next additional methods
-private getComposition(return fats, proteins, carbs);
-private getTaste(return taste); 	
+private getInstallationDepth(return installationDepth);
+private getWeatherOperation(return weatherOperation); 	
 
 }

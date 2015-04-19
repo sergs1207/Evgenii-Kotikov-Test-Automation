@@ -1,0 +1,3 @@
+Attributes: type (regular, mechanics, electrical), procedures type (gynaecology, laboratory, surgery), level of sterility
+
+Methods: check procedures type, check smell, check level of sterility

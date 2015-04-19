@@ -1,3 +1,3 @@
-Attributes: the way to eat (cook, raw), proteins, fats, carbs
+Attributes: type of usage (to seat, to store), seat places, design set
 
-Methods: check taste, check smell, check check composition
+Methods: check design set, check seat places

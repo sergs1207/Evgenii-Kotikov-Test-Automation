@@ -1,16 +1,15 @@
-public class Food extends Goods {
+public class KitchenFurniture extends Furniture {
         
-    // the Food subclass has
+    // the KitchenFurniture subclass has
     // next additional fields
-    public int fats; //Year growth for a tree
-	public int proteins; //
-	public int carbs; //
-	public String taste; //
-	public String eatWay; // DP we need to cook this kind of food
+    public int designSet; // Design set, attribute that describes a number of the design from a catalogue
+	public int seatPlaces; //
+	public String usageType; // To seat, to store etc.
 
-    // the Food subclass has
+
+    // the KitchenFurniture subclass has
     // next additional methods
-private getComposition(return fats, proteins, carbs);
-private getTaste(return taste); 	
+private getDesignSet(return designSet);
+private getUsageType(return usageType); 	
 
 }

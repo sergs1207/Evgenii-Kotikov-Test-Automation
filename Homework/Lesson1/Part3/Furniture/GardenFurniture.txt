@@ -1,3 +1,3 @@
-Attributes: the way to eat (cook, raw), proteins, fats, carbs
+Attributes: required weather limitation, special substance to cover, installation depth 
 
-Methods: check taste, check smell, check check composition
+Methods: check taste required weather limitation/compatibility, check installation depth 

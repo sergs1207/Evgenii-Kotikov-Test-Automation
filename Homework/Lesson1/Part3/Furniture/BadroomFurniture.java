@@ -1,16 +1,14 @@
-public class Food extends Goods {
+public class BadroomFurniture extends Furniture {
         
-    // the Food subclass has
+    // the BadroomFurniture subclass has
     // next additional fields
-    public int fats; //Year growth for a tree
-	public int proteins; //
-	public int carbs; //
-	public String taste; //
-	public String eatWay; // DP we need to cook this kind of food
+	public int sleepPlaces; // How many sleep places
+	public String mattress; //Type of the mattress
+	public boolean isFoldable; // Is foldable or not
 
-    // the Food subclass has
+    // the BadroomFurniture subclass has
     // next additional methods
-private getComposition(return fats, proteins, carbs);
-private getTaste(return taste); 	
+private unfold();//
+private getSleepPlaces(return sleepPlaces); //	
 
 }
