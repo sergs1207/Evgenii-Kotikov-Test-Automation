@@ -1,4 +1,4 @@
-public class NotebooksTouch extends Device {
+public class NotebooksTouch extends Devices {
         
     // the NotebooksTouch subclass has
     // next additional fields

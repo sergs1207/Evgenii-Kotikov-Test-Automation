@@ -1,4 +1,4 @@
-public class Smartphone extends Device {
+public class Smartphone extends Devices {
         
     // the Smartphone subclass has
     // next additional fields

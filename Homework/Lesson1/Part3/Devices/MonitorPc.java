@@ -1,4 +1,4 @@
-public class MonitorPc extends Device {
+public class MonitorPc extends Devices {
         
     // the MonitorPc subclass has
     // next additional fields

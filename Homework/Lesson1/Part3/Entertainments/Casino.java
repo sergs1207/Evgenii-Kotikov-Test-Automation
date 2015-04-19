@@ -1,16 +1,14 @@
-public class Food extends Goods {
+public class Casino extends Entertainments {
         
-    // the Food subclass has
+    // the Casino subclass has
     // next additional fields
-    public int fats; //Year growth for a tree
-	public int proteins; //
-	public int carbs; //
-	public String taste; //
-	public String eatWay; // DP we need to cook this kind of food
+	public float winningRandomizer; // Possibility to win
+	public String typeOfGame; // Blackjack, roulette, slot machines
+	public boolean isDealer; // Is dealer necessary to have
 
-    // the Food subclass has
+    // the Casino subclass has
     // next additional methods
-private getComposition(return fats, proteins, carbs);
-private getTaste(return taste); 	
+private setTypeOfGame(String newTypeOfGame){typeOfGame=newTypeOfGame};
+private setWinningRandomizer(float newWinningRandomizer){winningRandomizer=newWinningRandomizer};
 
 }

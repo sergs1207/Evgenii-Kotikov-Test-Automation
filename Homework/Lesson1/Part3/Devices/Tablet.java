@@ -1,4 +1,4 @@
-public class Tablet extends Device {
+public class Tablet extends Devices {
         
     // the Tablet subclass has
     // next additional fields
