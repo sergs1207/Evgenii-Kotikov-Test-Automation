@@ -1,3 +1,0 @@
-Attributes: current movie, D quantity (2D, 3D...), picture type (Regular, IMAX etc...), sound channels (2.0, 2.1, 5.1, etc)
-
-Methods: set D-quantity, set sound channels

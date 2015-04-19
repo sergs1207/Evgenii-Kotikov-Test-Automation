@@ -1,3 +1,0 @@
-Attributes: string length, string thickness, string tension
-
-Methods: check string length, set string tension

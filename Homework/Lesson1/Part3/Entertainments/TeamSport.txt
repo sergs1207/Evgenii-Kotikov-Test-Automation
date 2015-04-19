@@ -1,3 +1,0 @@
-Attributes: weather, amount of teams, amount of players per position
-
-Methods: set amount of teams, set amount of players per position

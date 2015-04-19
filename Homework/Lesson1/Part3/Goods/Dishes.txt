@@ -1,3 +1,0 @@
-Attributes: applicable for some stuff like kitchen, plants, flowers etc.; capacity; max temperature 
-
-Methods: check capacity, check applicability

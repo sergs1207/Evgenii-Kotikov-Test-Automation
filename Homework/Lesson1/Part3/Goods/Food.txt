@@ -1,3 +1,0 @@
-Attributes: the way to eat (cook, raw), proteins, fats, carbs
-
-Methods: check taste, check smell, check check composition
