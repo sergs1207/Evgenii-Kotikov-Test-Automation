@@ -1,0 +1,3 @@
+Attributes: diapason, membrane type, amount of drumsticks 
+
+Methods: check diapason, set amount of drumsticks 

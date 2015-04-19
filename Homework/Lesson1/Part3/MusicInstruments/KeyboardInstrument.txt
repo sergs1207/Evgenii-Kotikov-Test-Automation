@@ -1,0 +1,3 @@
+Attributes: amount of white keys, amount of black keys, amount of pedal keys, keyboard type  
+
+Methods: set amount of keys, set keyboard type

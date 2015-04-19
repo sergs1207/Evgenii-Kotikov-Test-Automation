@@ -1,0 +1,3 @@
+Attributes: type of vehicle, track length, weather, 
+
+Methods: set type of vehicle, set weather,

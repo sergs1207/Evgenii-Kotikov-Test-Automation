@@ -1,0 +1,3 @@
+Attributes: colour of the blossom, petals amount, the smell
+
+Methods: create blossom, create smell, set amount of the petals

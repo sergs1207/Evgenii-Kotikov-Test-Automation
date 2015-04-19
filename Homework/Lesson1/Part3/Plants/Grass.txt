@@ -1,0 +1,3 @@
+Attributes: grass area, colour, area grown
+
+Methods: grow, set colour
