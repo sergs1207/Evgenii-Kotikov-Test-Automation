@@ -1,0 +1,3 @@
+Attributes: requirement, number of requirements that were implemented, number of applications/features that were implemented
+
+Methods: new requirement, check how many application/feature were successfully implemented,

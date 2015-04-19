@@ -1,0 +1,3 @@
+Attributes: Does it have an additional phone module, does it have a stylus, what min screen resolution,
+
+Methods: provide additional phone module, chose min screen resolution

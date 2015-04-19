@@ -1,0 +1,3 @@
+Attributes: manufacturer of the cleaner (device) that cleaner uses, company that cleaner (worker) is being represent, uniform manufacturer  
+
+Methods: get manufacturer of the cleaner (device) that cleaner uses, get company that cleaner (worker) is being represent
